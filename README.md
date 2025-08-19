@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 手法概要
+## 手法概要
 - **特徴抽出**: ECG波形を256サンプル単位に分割し、Wavelet変換（db4, level=4）で時間周波数特徴を抽出  
 - **分類モデル**: LSTM (1層, hidden size=64) を使用  
 - **学習設定**: CrossEntropyLoss + Adam optimizer  
@@ -13,7 +13,7 @@
 
 ---
 
-## ⚙️ 実行環境
+## 実行環境
 - Python 3.9+  
 - PyTorch  
 - wfdb (PhysioNet データ取得用)  
