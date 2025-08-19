@@ -21,8 +21,8 @@
 - scikit-learn  
 
 ### セットアップ
-```bash
-pip install wfdb pywavelets torch torchvision scikit-learn
+#```bash
+#pip install wfdb pywavelets torch torchvision scikit-learn
 
 ## 📊 データセット
 - **MIT-BIH Arrhythmia Database (PhysioNet)**  
